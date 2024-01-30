@@ -1,4 +1,4 @@
-<h1>Hello👋..</h1>
+<h1 style=text-align:center;>Hello👋..</h1>
 - 👋 Hi, I’m Hend ..
 - 👀 I’m interested in Mobile Development..📱
 - 🌱 I’m currently learning Android..
