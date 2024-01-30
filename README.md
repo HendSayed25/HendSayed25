@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Hend Sayed..
 - 👀 I’m interested in Mobile Development..📱
 - 🌱 I’m currently learning Android..
-- ✨ My Profile in Linkedin https://www.linkedin.com/in/hend-sayed-744649247/
+- ✨ My Profile in Linkedin  LinkedIn
 
 
 <!---
