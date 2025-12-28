@@ -1,5 +1,5 @@
 <div align="center">
-<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img height="140" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 
@@ -15,7 +15,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 
-<p align="left">I'm Hend Sayed <br><br>- I'm interested in Mobile Development and building modern, user-friendly applications. </p>
+<p align="left">I'm Hend Sayed. <br>I'm interested in Mobile Development and building modern, user-friendly applications. </p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -40,9 +40,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HendSayed25" alt="GitHub Streak" /></a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=HendSayed25)](https://git.io/streak-stats)
 
 
 
