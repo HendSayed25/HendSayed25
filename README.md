@@ -40,8 +40,16 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HendSayed25&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
+</div> -->
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HendSayed25&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HendSayed25&layout=compact&theme=dark" height="120" alt="Top Languages" />
 </div>
 
 <!---
