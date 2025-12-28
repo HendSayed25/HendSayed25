@@ -40,9 +40,9 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HendSayed25)](https://git.io/streak-stats)
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HendSayed25&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
+</div>
 
 <!---
 HendSayed25/HendSayed25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
