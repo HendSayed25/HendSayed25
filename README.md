@@ -1,7 +1,6 @@
 <div align="center">
 <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-
 ###
 
 <div align="center">
@@ -11,22 +10,13 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
+<h1 align="center">Hello👋</h1>
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-
 ###
 
-<p align="left">I'm Hend Sayed <br><br>-  I'm interested in Mobile Development and building modern, user-friendly applications. <br>- </p>
+<p align="left">I'm Hend Sayed <br><br>- I'm interested in Mobile Development and building modern, user-friendly applications. </p>
 
 ###
 
@@ -35,6 +25,7 @@
 ###
 
 <div align="left">
+ <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -44,6 +35,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-original.svg" height="40" alt="oop logo"  />
+</div>
+
 </div>
 
 ###
@@ -53,7 +50,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HendSayed25&theme=dark&hide_border=false" height="220" alt="streak graph" />
 </div>
 
 ###
