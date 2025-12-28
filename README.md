@@ -11,18 +11,13 @@
 
 
 <h1 align="center">Hello👋</h1>
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
-###
+
 
 <p align="left">I'm Hend Sayed <br><br>- I'm interested in Mobile Development and building modern, user-friendly applications. </p>
 
-###
-
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
  <div align="left">
@@ -41,17 +36,14 @@
 
 </div>
 
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HendSayed25&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HendSayed25" alt="GitHub Streak" /></a>
 </div>
 
-###
 
 
 <!---
