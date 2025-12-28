@@ -1,5 +1,5 @@
 <div align="center">
-<img height="140" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img height="145" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 
@@ -37,12 +37,7 @@
 </div>
 
 
-<h3 align="left">🔥   My Stats :</h3>
-
-<div align="center">
-  <img src="my_image.png" alt="My Image" width="200" />
-</div>
-
+<h3 align="left">🔥 My Stats :</h3>
 
 
 <!-- <div align="center">
