@@ -39,17 +39,22 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+<div align="center">
+  <img src="my_image.png" alt="My Image" width="200" />
+</div>
+
+
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HendSayed25&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
+</div> -->
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HendSayed25&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
 </div> -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HendSayed25&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HendSayed25&layout=compact&theme=dark" height="120" alt="Top Languages" />
+  <img width="658" height="279" alt="Screenshot 2025-12-28 100832" src="https://github.com/user-attachments/assets/c09d2fa9-25b0-497a-879a-867f4e57d8bd" />
 </div>
 
 <!---
